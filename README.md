@@ -15,7 +15,7 @@ A simple, interactive quiz game built with HTML, CSS, and JavaScript. Test your 
 ## How to Run
 
 1. Clone or download the project files.
-2. Open `Starter/index.html` in any modern web browser.
+2. Open `index.html` in any modern web browser.
 3. Click "Start Quiz" to begin.
 4. Answer the questions by clicking on the options.
 5. View your results and restart if desired.
@@ -31,10 +31,9 @@ A simple, interactive quiz game built with HTML, CSS, and JavaScript. Test your 
 ```
 Quiz-game/
 ├── README.md
-└── Starter/
-    ├── index.html
-    ├── style.css
-    └── script.js
+├── index.html
+├── style.css
+└── script.js
 ```
 
 ## Questions Included
